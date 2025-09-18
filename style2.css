@@ -1,0 +1,46 @@
+legend{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(143, 122, 114);
+    text-shadow: orangered 100%;
+}
+td{
+    font-size: 40px;
+}
+body{
+    background-image: url(Wallpaper.jpg);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+fieldset{
+    background-color: antiquewhite;
+    width: 100%;
+    margin: 50px;
+    padding: 20px;
+    border: 3px     solid;
+}
+table{
+    display: flex;
+    align-items: center;
+    margin: 15px auto;
+    border-collapse: collapse;
+    width: 15     0%;
+    
+}
+button{
+    width: 40%;
+    font-size: 40px;
+}
+.submit{
+    width: 40%;
+    font-size: 40px;
+}
+.box{
+    width: auto;
+    font-size: 40px;
+
+}
+
+
